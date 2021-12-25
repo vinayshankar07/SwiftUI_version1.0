@@ -15,9 +15,13 @@
 		2458F021277795FE009DDCA8 /* ThirdFile.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2458F020277795FE009DDCA8 /* ThirdFile.swift */; };
 <<<<<<< HEAD
 		2458F0262777991C009DDCA8 /* FouthFile.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2458F0252777991C009DDCA8 /* FouthFile.swift */; };
+<<<<<<< HEAD
 =======
 		2458F02A27779B4C009DDCA8 /* FiveFile.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2458F02927779B4C009DDCA8 /* FiveFile.swift */; };
 >>>>>>> version1.1
+=======
+		2458F02F27779E8C009DDCA8 /* sixthFile.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2458F02E27779E8C009DDCA8 /* sixthFile.swift */; };
+>>>>>>> version2.0
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -31,9 +35,13 @@
 		2458F020277795FE009DDCA8 /* ThirdFile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThirdFile.swift; sourceTree = "<group>"; };
 <<<<<<< HEAD
 		2458F0252777991C009DDCA8 /* FouthFile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FouthFile.swift; sourceTree = "<group>"; };
+<<<<<<< HEAD
 =======
 		2458F02927779B4C009DDCA8 /* FiveFile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FiveFile.swift; sourceTree = "<group>"; };
 >>>>>>> version1.1
+=======
+		2458F02E27779E8C009DDCA8 /* sixthFile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = sixthFile.swift; sourceTree = "<group>"; };
+>>>>>>> version2.0
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -78,6 +86,7 @@
 				2458F01127779120009DDCA8 /* Assets.xcassets */,
 				2458F01627779120009DDCA8 /* Info.plist */,
 				2458F01327779120009DDCA8 /* Preview Content */,
+				2458F02E27779E8C009DDCA8 /* sixthFile.swift */,
 			);
 			path = SwiftUIExamples;
 			sourceTree = "<group>";
@@ -161,6 +170,7 @@
 			files = (
 				2458F0262777991C009DDCA8 /* FouthFile.swift in Sources */,
 				2458F01027779114009DDCA8 /* ContentView.swift in Sources */,
+				2458F02F27779E8C009DDCA8 /* sixthFile.swift in Sources */,
 				2458F021277795FE009DDCA8 /* ThirdFile.swift in Sources */,
 				2458F00E27779114009DDCA8 /* SwiftUIExamplesApp.swift in Sources */,
 				2458F01E277794C2009DDCA8 /* secondFile.swift in Sources */,
