@@ -13,6 +13,7 @@
 		2458F01527779120009DDCA8 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2458F01427779120009DDCA8 /* Preview Assets.xcassets */; };
 		2458F01E277794C2009DDCA8 /* secondFile.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2458F01D277794C2009DDCA8 /* secondFile.swift */; };
 		2458F021277795FE009DDCA8 /* ThirdFile.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2458F020277795FE009DDCA8 /* ThirdFile.swift */; };
+		2458F02A27779B4C009DDCA8 /* FiveFile.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2458F02927779B4C009DDCA8 /* FiveFile.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		2458F01627779120009DDCA8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		2458F01D277794C2009DDCA8 /* secondFile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = secondFile.swift; sourceTree = "<group>"; };
 		2458F020277795FE009DDCA8 /* ThirdFile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThirdFile.swift; sourceTree = "<group>"; };
+		2458F02927779B4C009DDCA8 /* FiveFile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FiveFile.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				2458F00F27779114009DDCA8 /* ContentView.swift */,
 				2458F01D277794C2009DDCA8 /* secondFile.swift */,
 				2458F020277795FE009DDCA8 /* ThirdFile.swift */,
+				2458F02927779B4C009DDCA8 /* FiveFile.swift */,
 				2458F01127779120009DDCA8 /* Assets.xcassets */,
 				2458F01627779120009DDCA8 /* Info.plist */,
 				2458F01327779120009DDCA8 /* Preview Content */,
@@ -148,6 +151,7 @@
 				2458F021277795FE009DDCA8 /* ThirdFile.swift in Sources */,
 				2458F00E27779114009DDCA8 /* SwiftUIExamplesApp.swift in Sources */,
 				2458F01E277794C2009DDCA8 /* secondFile.swift in Sources */,
+				2458F02A27779B4C009DDCA8 /* FiveFile.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
